@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carlo-varri.
+- 👀 I’m currently interested in learning how to use R for data analysis in order to realise my career ambiitions.
+- 💪 I'm highly motivated and will continue to put in the hours necessary to reach my goals. 
+- 📫 If for whatever reason you wish to contact me, my email address is varric0904@gmail.com
